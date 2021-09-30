@@ -1,4 +1,4 @@
-First project for The Odin Project:
+First project for The Odin Project (https://www.theodinproject.com/):
 
 - Created a simple website with HTML that includes various cooking recipes.
 
